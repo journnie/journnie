@@ -1,4 +1,10 @@
 ### Hi there 👋
+![mona-whisper](https://github.com/journnie/journnie/assets/155598826/e42ecfe6-cb0c-4044-abac-dbd157c938d3)
+
+
+
+
+
 
 <!--
 **journnie/journnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
