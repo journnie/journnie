@@ -1,8 +1,9 @@
 ### Hi there 👋
-![mona-whisper](https://github.com/journnie/journnie/assets/155598826/e42ecfe6-cb0c-4044-abac-dbd157c938d3)
+<div align="center">
+  
+![bnb](https://github.com/journnie/journnie/assets/155598826/ec328a2d-6947-4183-a0ee-96e210994dc1)
 
-
-
+</div>
 
 
 
